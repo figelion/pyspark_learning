@@ -1,5 +1,8 @@
 # pyspark_learning
 
+Nothing to see here
+Repository use for purpose of learning pyspark.
+
 To run pyspark notebook use:
 
 `docker build -t pyspark_jupyter .`
